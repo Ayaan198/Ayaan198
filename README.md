@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan Ali Bate</h1>
-<h3 align="center">A passionate CS Student and a developer from India.</h3>
+<h3 align="center">A passionate CS Developer and a developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan198&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan198" /> </p>
 
