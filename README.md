@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+# 👨‍💻 About Me:
+🔭 **I’m currently working on:**  <br>AI-powered fullstack apps using React, Node.js, and Firebase with real-time data handling.<br><br>👯 **I’m looking to contribute on:**  <br>Cloud-native projects, automation tools, and modern web platforms.<br><br>🌱 **I’m currently learning:**  <br>Docker, CI/CD pipelines, Supabase, and DevOps workflows.<br><br>📌 ** Tech I enjoy working with:**  <br>Node.js, Firebase, React, Express, PostgreSQL, REST APIs, and cloud integrations.<br><br>🎯 ** Career Goal:**  <br>To become a strong backend or DevOps engineer contributing to scalable, production-grade systems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
