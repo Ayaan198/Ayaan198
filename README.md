@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ayaan Ali Bate</h1>
+<h1 align="center">Hi 👋 I'm Ayan Ali Bate</h1>
 
 # 💫 About Me:
 I'm a passionate **Full Stack Developer** focused on building AI-powered applications and cloud-native solutions. I enjoy creating scalable backend systems and exploring the intersection of artificial intelligence with modern web technologies.
